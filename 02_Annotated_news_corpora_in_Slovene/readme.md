@@ -18,7 +18,7 @@ Web resources:
 - Slovenian news texts with political, business, economic and financial content published between 1 September 2007 and 31 December 2013 from five Slovenian web media from five web media: www.24ur.com, www.dnevnik.si, www.finance.si, www.rtvslo.si, www.zurnal24.si
 
 Type and size:
-- .txt, .csv, .xlsx, .zip; size (.txt): 22.7 MB (document-level), 23.7 MB (paragraph-level), 26.9 MB (sentence-level)
+- .txt, .csv, .xlsx, .zip; size (.txt): Document-level (22.7 MB PRIVATE, 1.27 MB PUBLIC), Paragraph-level (23.2 MB PRIVATE, 2.67 MB PUBLIC), Sentence-level (26 MB PRIVATE, 5.43 MB PUBLIC)
 
 Encoding: UTF-8
 
