@@ -15,7 +15,7 @@ Web resources:
 - List of Slovenian words, Fran Ramovš Institute of Slovenian Language ZRC SAZU (http://bos.zrc-sazu.si/besede_en.html)
 
 Type and size:
-- .txt, .csv, .xlsx, .zip; size (.txt): 7.99 MB  (PUBLIC)
+- .txt, .csv, .xlsx, .zip; size (.txt): 637 KB  (PUBLIC)
 
 Encoding: UTF-8
 
